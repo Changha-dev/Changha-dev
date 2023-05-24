@@ -17,6 +17,7 @@ I am a student of SeoulTech. Dreaming of becoming a back-end developer 🧑‍�
 <br/>
 <br/>
 <br/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=menten4859)](https://solved.ac/menten4859)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changha-dev&layout=compact&theme=dracula) 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=menten4859)](https://solved.ac/menten4859)
+
 
