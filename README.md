@@ -1,5 +1,5 @@
-👋 Hi, there! 🌴
-I am a student of SeoulTech. Dreaming of becoming a back-end developer 🧑‍💻
+👋 Hi, there! 🌴   
+I am a student of SeoulTech. Dreaming of becoming a back-end developer 🧑‍💻   
 
 🚀 I'm working hard to become a better day than yesterday ✨ 
 
