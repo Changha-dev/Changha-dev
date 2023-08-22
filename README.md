@@ -6,7 +6,8 @@ I am a student of SeoulTech. Dreaming of becoming a back-end developer 🧑‍�
 <br/>
 <br/>
 ### 💪 Skills     
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-DD6620?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white"> <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=ANDROID&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-DD6620?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white"> <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=ANDROID&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=THYMELEAF&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=BOOTSTRAP&logoColor=white"> <img src="https://img.shields.io/badge/Aws-232F3E7952B3?style=for-the-badge&logo=AMAZONAWS&logoColor=white">
+<br/>
 <br/>
 <br/>
 <br/>
