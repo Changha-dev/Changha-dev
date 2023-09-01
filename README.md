@@ -1,7 +1,7 @@
 👋 Hi, there!   
 I am a student of SeoulTech. Dreaming of becoming a back-end developer 🧑‍💻   
 
-🚀 I'm working hard to become a better day than yesterday ✨ 
+I'm working hard to become a better day than yesterday ✨ 
 <br/>
 <br/>
 <br/>
